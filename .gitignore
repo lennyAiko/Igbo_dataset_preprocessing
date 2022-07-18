@@ -1,0 +1,11 @@
+.vscode/
+binary/
+dataset/
+dbenv/
+sorted/
+binary.zip
+dataset.zip
+sorted.zip
+instructions followed.txt
+requirements.txt
+test.py
